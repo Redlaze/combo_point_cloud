@@ -1,0 +1,6 @@
+matplotlib
+PIL
+torch
+transformers
+numpy==1.24.0
+open3d
